@@ -137,11 +137,11 @@ Real-time crowd monitoring solution using:
 
 ## 🌐 Connect With Me
 
-LinkedIn : YOUR_LINKEDIN
+LinkedIn : www.linkedin.com/in/sasi-dharan-18638024a
 
-Portfolio : YOUR_PORTFOLIO
+Portfolio : https://personal-portfolio-blond-five-77.vercel.app
 
-Email : YOUR_EMAIL
+Email : csasi1928@gmail.com
 
 ---
 
