@@ -50,9 +50,9 @@ Mindset:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge\&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge\&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge\&logo=javascript)
 
 ### Full Stack Development
