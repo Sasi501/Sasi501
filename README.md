@@ -131,7 +131,7 @@ LinkedIn : www.linkedin.com/in/sasi-dharan-18638024a
 
 Portfolio : https://personal-portfolio-blond-five-77.vercel.app
 
-Email : csasi1928@gmail.com
+Email : sasidharan.works@gmail.com
 
 ---
 
